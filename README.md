@@ -2,12 +2,12 @@
 
 <img src="./assets/banner.svg" alt="Parvat Khattak — Data Scientist · Software Engineer · AI/ML Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Building+LLM-powered+products+%26+agentic+workflows;Turning+data+into+decisions+at+Tredence;From+embedded+C+to+Generative+AI;Codeforces+Expert+%E2%80%94+250%2B+problems+solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Building+LLM-powered+products+%26+agentic+workflows;Turning+data+into+decisions+at+Tredence;From+embedded+C+to+Generative+AI;Codeforces+Specialist+%E2%80%94+250%2B+problems+solved" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/parvatkhattak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:parvatkhattak03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-Expert_1500+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/DarkWeB10"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&logoColor=white&color=03A89E&label=Codeforces&query=%24.result%5B0%5D.rating&suffix=%20%C2%B7%20Specialist&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DDarkWeB10" alt="Codeforces" /></a>
   <a href="https://github.com/parvatkhattak?tab=repositories"><img src="https://img.shields.io/badge/Projects-34+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
@@ -161,7 +161,7 @@ Agent with intent detection, tool calling, and persistent memory for multiple us
 
 | | |
 |---|---|
-| ⭐ **Codeforces Expert** (1500+) | 💻 **250+** DSA problems solved |
+| ⭐ **Codeforces Specialist** — [DarkWeB10](https://codeforces.com/profile/DarkWeB10) (max 1527) | 💻 **250+** DSA problems solved |
 | 🎓 **JEE Advanced** — AIR 2487 | 🎓 **JEE Main** — AIR 2581 |
 | 🏅 Represented IIT Palakkad at **Inter IIT Cultural Meets** (Dance & Filmmaking) | 🚀 **Founding Engineer** at an early-stage startup |
 
