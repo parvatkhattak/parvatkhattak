@@ -1,91 +1,198 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Parvat+Khattak;Data+Scientist+%40+Tredence;AI+%2F+ML+%26+Generative+AI+Engineer;IIT+Palakkad+Alum" alt="Typing SVG" />
 
-  <p>
-    <strong>Data Scientist & Software Developer</strong> specializing in Generative AI architectures, Agentic workflows (LangChain/LangGraph), and scalable system design.
-  </p>
+<img src="./assets/banner.svg" alt="Parvat Khattak — Data Scientist · Software Engineer · AI/ML Engineer" width="100%" />
 
-  <p>
-    <a href="https://linkedin.com/in/parvatkhattak" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:parvatkhattak03@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://codeforces.com">
-      <img src="https://img.shields.io/badge/Codeforces-Expert_(1500+)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-    </a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Building+LLM-powered+products+%26+agentic+workflows;Turning+data+into+decisions+at+Tredence;From+embedded+C+to+Generative+AI;Codeforces+Expert+%E2%80%94+250%2B+problems+solved" alt="Typing SVG" />
+
+<p>
+  <a href="https://linkedin.com/in/parvatkhattak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:parvatkhattak03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-Expert_1500+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://github.com/parvatkhattak?tab=repositories"><img src="https://img.shields.io/badge/Projects-34+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+</p>
+
 </div>
 
----
+## 👨‍💻 About Me
 
-### 📌 About Me
+I'm an **Electrical Engineering graduate from IIT Palakkad** whose path has run from **embedded systems** to **software engineering**, **Generative AI**, a **founding-engineer** role at a startup, and now **Data Science at Tredence**.
 
-- 💼 **Data Scientist** at **Tredence Inc.**, building ML and GenAI pipelines for enterprise business solutions[cite: 1].
-- 🚀 Former Founding Engineer at **Snello.co**; designed LLM ad automation platforms and Swift-based mobile workflows[cite: 1].
-- 🎓 **B.Tech in Electrical Engineering** from **IIT Palakkad**[cite: 1].
-- 🧠 Built RAG architectures, multi-agent frameworks, Reinforcement Learning agents (DDQN), and spatial data systems[cite: 1, 2].
-- 🏆 **Codeforces Expert (1500+)** with 250+ solved algorithmic problems[cite: 2].
+I like the whole lifecycle: modeling the problem, shipping the API, and making sure it works in production.
 
----
+```python
+class Parvat:
+    role       = "Data Scientist @ Tredence"
+    previously = ["Founding Engineer @ Snello.co", "SDE @ Rehumus", "GenAI Dev @ Brix AI"]
+    education  = "B.Tech Electrical Engineering, IIT Palakkad (2022–2026)"
+    focus      = ["Generative AI", "Agentic AI", "Machine Learning", "System Design"]
+    currently  = "Building ML & GenAI solutions for enterprise business problems"
+    fun_fact   = "Enjoys competitive programming as much as shipping real products"
+```
 
-### 🛠️ Tech Stack & Tooling
+## 💼 Experience
 
-**Languages**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
+| | Organization | Role | Period |
+|:-:|---|---|---|
+| 🟢 | **Tredence** | Data Scientist | Jun 2026 – Present |
+| 🚀 | **Snello.co** | SDE Intern → **Founding Engineer** | Jul 2025 – Jun 2026 |
+| 🛠️ | **Rehumus Technology** | Project Intern → Software Development Intern | Sep 2025 – May 2026 |
+| 🤖 | **Brix AI** | Generative AI Developer Intern | May – Jul 2025 |
+| 🔬 | **ESSENCE, IIT Palakkad** | AI/ML Research Intern | May – Jul 2025 |
+| ⚡ | **IPTIF, IIT Palakkad** | Project Intern | May – Jul 2024 |
 
-**AI / Machine Learning & Frameworks**  
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-</p>
+## 🚀 Featured Projects
 
-**Databases, Cloud & Dev Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏥 [Medical Coding Assistant](https://github.com/parvatkhattak/Medical-Coding-Assistant)
+RAG system for ICD-10 coding that retrieves from the guidelines, index, and tabular list. It handles context-aware follow-up questions and shows its reasoning in a debug view.
 
-### 🔬 Highlighted Projects
+`FastAPI` `Gemini` `Qdrant` `RAG` `Streamlit`
 
-- **Double Deep Q-Network for Super Mario Bros**: Reinforcement learning system using PyTorch addressing overestimation bias via DDQN[cite: 2].
-- **Periyar Species Extraction System**: Multi-modal document parser integrating Gemini 2.0, OCR pipelines, and Streamlit for batch biodiversity analytics[cite: 2].
-- **LLM Ad Automation Suite**: Agentic campaign orchestration using LangGraph, LangChain, and FastAPI connected to Google and Meta Ads APIs[cite: 1].
-- **Smart Animal Intrusion Detection**: Embedded IoT edge system deploying 2D-CNNs for real-time audio/visual alert routing via GSM[cite: 2].
+</td>
+<td width="50%" valign="top">
 
----
+### 🛒 [Retail AI — Sales Forecasting](https://github.com/parvatkhattak/AI-Powered-Retail-Sales-Forecasting-Decision-Intelligence)
+Decision-intelligence platform: LightGBM/XGBoost forecasting with a LangGraph agent that answers in natural language. Includes observability and FinOps monitoring, and has 288 passing tests.
 
-### 📊 GitHub Activity & Statistics
+`LightGBM` `XGBoost` `LangGraph` `Docker`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvatkhattak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Parvat's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvatkhattak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvatkhattak&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
-</p>
+### 🌿 [Periyar Species Extraction](https://github.com/parvatkhattak/Periyar-Species-Data-Extraction-System)
+Multimodal pipeline that pulls structured biodiversity data out of ecological documents in batch.
+
+`Gemini 2.0` `OCR` `NLP` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 📐 [Faceometry](https://github.com/parvatkhattak/Faceometry)
+Full-stack facial-geometry analysis. It detects dense 3D landmarks, rectifies head tilt, and scores symmetry and classical proportions.
+
+`MediaPipe` `Computer Vision` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍄 [Super Mario Bros — DDQN](https://github.com/parvatkhattak/Super-Mario-Bros---Reinforcement-learning)
+Double Deep Q-Network agent with experience replay. It reduces Q-value overestimation and makes training more stable.
+
+`PyTorch` `Reinforcement Learning` `Gym`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Agentic Chatbot — Gemini + LangGraph](https://github.com/parvatkhattak/Agentic-Chatbot-with-Gemini-API-LangGraph)
+Agent with intent detection, tool calling, and persistent memory for multiple users.
+
+`LangGraph` `Gemini` `SQLite` `AI Agents`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔎 More projects</b></summary>
+<br/>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **LLM-powered Ad Automation** *(Snello.co)* | Agentic campaign orchestration across Google Ads & Meta Ads APIs | LangGraph, LangChain, FastAPI |
+| [**Onebox Email Aggregator**](https://github.com/parvatkhattak/onebox-email-aggregator) | Real-time IMAP sync, Gemini categorization & smart replies | TypeScript, Node.js, Elasticsearch |
+| [**Promotion Cannibalization & TrueLift**](https://github.com/parvatkhattak/Promotion-Cannibalization) | Separates true incremental lift from cannibalization in CPG promotions | React, Vite, Analytics |
+| [**3D Drone Path Planning**](https://github.com/parvatkhattak/3D-Drone-Path-Planning-with-Obstacle-Avoidance) | Interactive 3D path planning with obstacle avoidance — [live demo](https://3-d-drone-path-planning-with-obstac.vercel.app/) | TypeScript |
+| [**Smart Animal Intrusion — Image**](https://github.com/parvatkhattak/Animal-intrusion-detection--image) · [**Sound**](https://github.com/parvatkhattak/Animal-intrusion-detection--sound) | IoT system with CNN image/audio classification and GSM alerts | CNN, IoT, GSM |
+| [**Sound-Based Pet Recognition**](https://github.com/parvatkhattak/Sound-Based-Pet-Animal-Recognition-System) | 2D-CNN on Mel spectrograms for cat/dog sound classification | TensorFlow, Librosa |
+| [**Docbot for Aphasia Patients**](https://github.com/parvatkhattak/Docbot-for-Aphasia-Patients) | Personalized, accessible chatbot for people with aphasia | Python, Streamlit |
+| [**PSoC 5LP**](https://github.com/parvatkhattak/PSOC-5LP-) | Embedded C firmware, sensor integration & telemetry | C, PSoC |
+| **DAYCENT Decision System** *(ESSENCE)* | Python GUI for the DAYCENT model with Earth Engine geospatial analysis | Python, Google Earth Engine |
+
+</details>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,swift,bash&perline=10" alt="Languages" />
+</td></tr>
+<tr><td><b>AI / ML</b></td><td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" alt="AI/ML" /><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/RAG-4B5563?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/LLM_Fine--tuning-4B5563?style=flat-square" alt="LLM Fine-tuning" />
+<img src="https://img.shields.io/badge/AI_Agents-4B5563?style=flat-square" alt="AI Agents" />
+<img src="https://img.shields.io/badge/NLP-4B5563?style=flat-square" alt="NLP" />
+<img src="https://img.shields.io/badge/Computer_Vision-4B5563?style=flat-square" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/Reinforcement_Learning-4B5563?style=flat-square" alt="Reinforcement Learning" />
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react&perline=10" alt="Backend" />
+</td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,linux,git&perline=10" alt="Cloud & DevOps" />
+</td></tr>
+<tr><td><b>Databases</b></td><td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,sqlite&perline=10" alt="Databases" /><br/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+</td></tr>
+<tr><td><b>Hardware & More</b></td><td>
+<img src="https://skillicons.dev/icons?i=arduino&perline=10" alt="Arduino" /><br/>
+<img src="https://img.shields.io/badge/PSoC-0A6EB4?style=flat-square" alt="PSoC" />
+<img src="https://img.shields.io/badge/Embedded_Systems-4B5563?style=flat-square" alt="Embedded Systems" />
+<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Earth Engine" />
+<img src="https://img.shields.io/badge/System_Design-4B5563?style=flat-square" alt="System Design" />
+</td></tr>
+</table>
+
+## 🏆 Achievements
+
+| | |
+|---|---|
+| ⭐ **Codeforces Expert** (1500+) | 💻 **250+** DSA problems solved |
+| 🎓 **JEE Advanced** — AIR 2487 | 🎓 **JEE Main** — AIR 2581 |
+| 🏅 Represented IIT Palakkad at **Inter IIT Cultural Meets** (Dance & Filmmaking) | 🚀 **Founding Engineer** at an early-stage startup |
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parvatkhattak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvatkhattak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parvatkhattak/parvatkhattak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parvatkhattak/parvatkhattak/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/parvatkhattak/parvatkhattak/output/github-snake.svg" />
+</picture>
+</div>
+
+## 🤝 Let's Connect
+
+I'm always happy to talk with developers, AI enthusiasts, and anyone building interesting products, whether about **GenAI systems**, **data science**, or **competitive programming**.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/parvatkhattak"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:parvatkhattak03@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<i>"Building things, breaking things, learning things — one commit at a time."</i>
+
+<img src="https://komarev.com/ghpvc/?username=parvatkhattak&style=flat-square&color=818cf8&label=Profile+views" alt="Profile views" />
+
+</div>
