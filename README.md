@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Building+LLM-powered+products+%26+agentic+workflows;Turning+data+into+decisions+at+Tredence;From+embedded+C+to+Generative+AI;Codeforces+Specialist+%E2%80%94+250%2B+problems+solved" alt="Typing SVG" />
 
 <p>
-  <a href="https://linkedin.com/in/parvatkhattak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/parvat-khattak-51a698195"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:parvatkhattak03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://codeforces.com/profile/DarkWeB10"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&logoColor=white&color=03A89E&label=Codeforces&query=%24.result%5B0%5D.rating&suffix=%20%C2%B7%20Specialist&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DDarkWeB10" alt="Codeforces" /></a>
   <a href="https://github.com/parvatkhattak?tab=repositories"><img src="https://img.shields.io/badge/Projects-34+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
@@ -186,10 +186,12 @@ I'm always happy to talk with developers, AI enthusiasts, and anyone building in
 
 <div align="center">
 
-<a href="https://linkedin.com/in/parvatkhattak"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/parvat-khattak-51a698195"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:parvatkhattak03@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/><br/>
+<br/>
+
+📧 <code>parvatkhattak03@gmail.com</code>
 
 <i>"Building things, breaking things, learning things — one commit at a time."</i>
 
