@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Parvat Khattak — Data Scientist · Software Engineer · AI/ML Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Building+LLM-powered+products+%26+agentic+workflows;Turning+data+into+decisions+at+Tredence;From+embedded+C+to+Generative+AI;Codeforces+1500%2B+%E2%80%94+250%2B+problems+solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=818CF8&center=true&vCenter=true&width=680&lines=%3E+Building+LLM-powered+products+%26+agentic+workflows;%3E+Turning+data+into+decisions+at+Tredence;%3E+From+embedded+C+firmware+to+Generative+AI;%3E+Codeforces+1500%2B+%7C+250%2B+algorithmic+problems+solved" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/parvat-khattak-51a698195"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -11,9 +11,11 @@
   <a href="https://github.com/parvatkhattak?tab=repositories"><img src="https://img.shields.io/badge/Projects-34+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
+<img src="./assets/icons/divider.svg" width="100%" alt="divider" />
+
 </div>
 
-## 👨‍💻 About Me
+## <img src="./assets/icons/terminal.svg" width="22" height="22" align="absmiddle" /> System Profile
 
 I'm an **Electrical Engineering graduate from IIT Palakkad** whose path has run from **embedded systems** to **software engineering**, **Generative AI**, a **founding-engineer** role at a startup, and now **Data Science at Tredence**.
 
@@ -29,24 +31,28 @@ class Parvat:
     fun_fact   = "Enjoys competitive programming as much as shipping real products"
 ```
 
-## 💼 Experience
+<img src="./assets/icons/divider.svg" width="100%" alt="divider" />
 
-| | Organization | Role | Period |
+## <img src="./assets/icons/timeline.svg" width="22" height="22" align="absmiddle" /> Experience
+
+| Status | Organization | Role | Period |
 |:-:|---|---|---|
-| 🟢 | **Tredence** | Data Scientist | Jun 2026 – Present |
-| 🚀 | **Snello.co** | SDE Intern → **Founding Engineer** | Jul 2025 – Jun 2026 |
-| 🛠️ | **Rehumus Technology** | Project Intern → Software Development Intern | Sep 2025 – May 2026 |
-| 🤖 | **Brix AI** | Generative AI Developer Intern | May – Jul 2025 |
-| 🔬 | **ESSENCE, IIT Palakkad** | AI/ML Research Intern | May – Jul 2025 |
-| ⚡ | **IPTIF, IIT Palakkad** | Project Intern | May – Jul 2024 |
+| <img src="./assets/icons/pulse-live.svg" width="16" height="16" alt="Active" /> | **Tredence** | Data Scientist | Jun 2026 – Present |
+| <img src="./assets/icons/pulse-node.svg" width="16" height="16" alt="Node" /> | **Snello.co** | SDE Intern → **Founding Engineer** | Jul 2025 – Jun 2026 |
+| <img src="./assets/icons/pulse-node.svg" width="16" height="16" alt="Node" /> | **Rehumus Technology** | Project Intern → Software Development Intern | Sep 2025 – May 2026 |
+| <img src="./assets/icons/pulse-node.svg" width="16" height="16" alt="Node" /> | **Brix AI** | Generative AI Developer Intern | May – Jul 2025 |
+| <img src="./assets/icons/pulse-node.svg" width="16" height="16" alt="Node" /> | **ESSENCE, IIT Palakkad** | AI/ML Research Intern | May – Jul 2025 |
+| <img src="./assets/icons/pulse-node.svg" width="16" height="16" alt="Node" /> | **IPTIF, IIT Palakkad** | Project Intern | May – Jul 2024 |
 
-## 🚀 Featured Projects
+<img src="./assets/icons/divider.svg" width="100%" alt="divider" />
+
+## <img src="./assets/icons/projects.svg" width="22" height="22" align="absmiddle" /> Featured Systems & Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [Medical Coding Assistant](https://github.com/parvatkhattak/Medical-Coding-Assistant)
+### <img src="./assets/icons/proj-medical.svg" width="20" height="20" align="absmiddle" /> [Medical Coding Assistant](https://github.com/parvatkhattak/Medical-Coding-Assistant)
 RAG system for ICD-10 coding that retrieves from the guidelines, index, and tabular list. It handles context-aware follow-up questions and shows its reasoning in a debug view.
 
 `FastAPI` `Gemini` `Qdrant` `RAG` `Streamlit`
@@ -54,7 +60,7 @@ RAG system for ICD-10 coding that retrieves from the guidelines, index, and tabu
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [Retail AI — Sales Forecasting](https://github.com/parvatkhattak/AI-Powered-Retail-Sales-Forecasting-Decision-Intelligence)
+### <img src="./assets/icons/proj-forecast.svg" width="20" height="20" align="absmiddle" /> [Retail AI — Sales Forecasting](https://github.com/parvatkhattak/AI-Powered-Retail-Sales-Forecasting-Decision-Intelligence)
 Decision-intelligence platform: LightGBM/XGBoost forecasting with a LangGraph agent that answers in natural language. Includes observability and FinOps monitoring, and has 288 passing tests.
 
 `LightGBM` `XGBoost` `LangGraph` `Docker`
@@ -64,7 +70,7 @@ Decision-intelligence platform: LightGBM/XGBoost forecasting with a LangGraph ag
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [Periyar Species Extraction](https://github.com/parvatkhattak/Periyar-Species-Data-Extraction-System)
+### <img src="./assets/icons/proj-scan.svg" width="20" height="20" align="absmiddle" /> [Periyar Species Extraction](https://github.com/parvatkhattak/Periyar-Species-Data-Extraction-System)
 Multimodal pipeline that pulls structured biodiversity data out of ecological documents in batch.
 
 `Gemini 2.0` `OCR` `NLP` `Streamlit`
@@ -72,7 +78,7 @@ Multimodal pipeline that pulls structured biodiversity data out of ecological do
 </td>
 <td width="50%" valign="top">
 
-### 📐 [Faceometry](https://github.com/parvatkhattak/Faceometry)
+### <img src="./assets/icons/proj-vision.svg" width="20" height="20" align="absmiddle" /> [Faceometry](https://github.com/parvatkhattak/Faceometry)
 Full-stack facial-geometry analysis. It detects dense 3D landmarks, rectifies head tilt, and scores symmetry and classical proportions.
 
 `MediaPipe` `Computer Vision` `Python`
@@ -82,7 +88,7 @@ Full-stack facial-geometry analysis. It detects dense 3D landmarks, rectifies he
 <tr>
 <td width="50%" valign="top">
 
-### 🍄 [Super Mario Bros — DDQN](https://github.com/parvatkhattak/Super-Mario-Bros---Reinforcement-learning)
+### <img src="./assets/icons/proj-rl.svg" width="20" height="20" align="absmiddle" /> [Super Mario Bros — DDQN](https://github.com/parvatkhattak/Super-Mario-Bros---Reinforcement-learning)
 Double Deep Q-Network agent with experience replay. It reduces Q-value overestimation and makes training more stable.
 
 `PyTorch` `Reinforcement Learning` `Gym`
@@ -90,7 +96,7 @@ Double Deep Q-Network agent with experience replay. It reduces Q-value overestim
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Agentic Chatbot — Gemini + LangGraph](https://github.com/parvatkhattak/Agentic-Chatbot-with-Gemini-API-LangGraph)
+### <img src="./assets/icons/proj-agent.svg" width="20" height="20" align="absmiddle" /> [Agentic Chatbot — Gemini + LangGraph](https://github.com/parvatkhattak/Agentic-Chatbot-with-Gemini-API-LangGraph)
 Agent with intent detection, tool calling, and persistent memory for multiple users.
 
 `LangGraph` `Gemini` `SQLite` `AI Agents`
@@ -100,7 +106,7 @@ Agent with intent detection, tool calling, and persistent memory for multiple us
 </table>
 
 <details>
-<summary><b>🔎 More projects</b></summary>
+<summary><b><code>[+]</code> Expand additional repositories &amp; engineering work</b></summary>
 <br/>
 
 | Project | What it does | Stack |
@@ -108,7 +114,7 @@ Agent with intent detection, tool calling, and persistent memory for multiple us
 | **LLM-powered Ad Automation** *(Snello.co)* | Agentic campaign orchestration across Google Ads & Meta Ads APIs | LangGraph, LangChain, FastAPI |
 | [**Onebox Email Aggregator**](https://github.com/parvatkhattak/onebox-email-aggregator) | Real-time IMAP sync, Gemini categorization & smart replies | TypeScript, Node.js, Elasticsearch |
 | [**Promotion Cannibalization & TrueLift**](https://github.com/parvatkhattak/Promotion-Cannibalization) | Separates true incremental lift from cannibalization in CPG promotions | React, Vite, Analytics |
-| [**3D Drone Path Planning**](https://github.com/parvatkhattak/3D-Drone-Path-Planning-with-Obstacle-Avoidance) | Interactive 3D path planning with obstacle avoidance — [live demo](https://3-d-drone-path-planning-with-obstac.vercel.app/) | TypeScript |
+| [**3D Drone Path Planning**](https://github.com/parvatkhattak/3D-Drone-Path-Planning-with-Obstacle-Avoidance) | Interactive 3D path planning with obstacle avoidance — [live demo](https://3-d-drone-path-planning-with-obstac.vercel.app/) | TypeScript, Three.js |
 | [**Smart Animal Intrusion — Image**](https://github.com/parvatkhattak/Animal-intrusion-detection--image) · [**Sound**](https://github.com/parvatkhattak/Animal-intrusion-detection--sound) | IoT system with CNN image/audio classification and GSM alerts | CNN, IoT, GSM |
 | [**Sound-Based Pet Recognition**](https://github.com/parvatkhattak/Sound-Based-Pet-Animal-Recognition-System) | 2D-CNN on Mel spectrograms for cat/dog sound classification | TensorFlow, Librosa |
 | [**Docbot for Aphasia Patients**](https://github.com/parvatkhattak/Docbot-for-Aphasia-Patients) | Personalized, accessible chatbot for people with aphasia | Python, Streamlit |
@@ -117,7 +123,9 @@ Agent with intent detection, tool calling, and persistent memory for multiple us
 
 </details>
 
-## 🛠️ Tech Stack
+<img src="./assets/icons/divider.svg" width="100%" alt="divider" />
+
+## <img src="./assets/icons/stack.svg" width="22" height="22" align="absmiddle" /> Tech Stack & Architecture
 
 <table>
 <tr><td><b>Languages</b></td><td>
@@ -157,15 +165,19 @@ Agent with intent detection, tool calling, and persistent memory for multiple us
 </td></tr>
 </table>
 
-## 🏆 Achievements
+<img src="./assets/icons/divider.svg" width="100%" alt="divider" />
+
+## <img src="./assets/icons/achievements.svg" width="22" height="22" align="absmiddle" /> Achievements & Benchmarks
 
 | | |
 |---|---|
-| ⭐ **Codeforces** — [DarkWeB10](https://codeforces.com/profile/DarkWeB10) (1500+ Rating) | 💻 **250+** DSA problems solved |
-| 🎓 **JEE Advanced** — AIR 2487 | 🎓 **JEE Main** — AIR 2581 |
-| 🏅 Represented IIT Palakkad at **Inter IIT Cultural Meets** (Dance & Filmmaking) | 🚀 **Founding Engineer** at an early-stage startup |
+| `CF::1500+` **Codeforces** — [DarkWeB10](https://codeforces.com/profile/DarkWeB10) (max 1527) | `DSA::250+` Algorithmic problems solved across platforms |
+| `AIR::2487` **IIT-JEE Advanced** | `AIR::2581` **IIT-JEE Main** |
+| `INTER-IIT` Represented **IIT Palakkad** at Cultural Meets (Dance & Filmmaking) | `0 -> 1` **Founding Engineer** at an early-stage AI startup |
 
-## 📊 GitHub Stats
+<img src="./assets/icons/divider.svg" width="100%" alt="divider" />
+
+## <img src="./assets/icons/stats-icon.svg" width="22" height="22" align="absmiddle" /> Telemetry & GitHub Activity
 
 <div align="center">
   <img src="./assets/stats.svg" alt="GitHub Stats" width="49%" />
@@ -180,21 +192,27 @@ Agent with intent detection, tool calling, and persistent memory for multiple us
 </picture>
 </div>
 
-## 🤝 Let's Connect
+<img src="./assets/icons/divider.svg" width="100%" alt="divider" />
 
-I'm always happy to talk with developers, AI enthusiasts, and anyone building interesting products, whether about **GenAI systems**, **data science**, or **competitive programming**.
+## <img src="./assets/icons/signal.svg" width="22" height="22" align="absmiddle" /> Connect
+
+Always happy to talk with engineers, researchers, and founders building in **Generative AI**, **data science**, or **distributed systems**.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/parvat-khattak-51a698195"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:parvatkhattak03@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:parvatkhattak03@gmail.com"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/>
 
-📧 <code>parvatkhattak03@gmail.com</code>
+<code>parvatkhattak03@gmail.com</code>
+
+<br/>
 
 <i>"Building things, breaking things, learning things — one commit at a time."</i>
 
-<img src="https://komarev.com/ghpvc/?username=parvatkhattak&style=flat-square&color=818cf8&label=Profile+views" alt="Profile views" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=parvatkhattak&style=flat-square&color=818cf8&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>

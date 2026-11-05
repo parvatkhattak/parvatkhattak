@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24">
+  <g transform="translate(12,12)">
+    <polygon points="0,-8 7,-4 7,4 0,8 -7,4 -7,-4" fill="#111827" stroke="#38bdf8" stroke-width="1.6"/>
+    <polyline points="-7,-4 0,0 7,-4" fill="none" stroke="#818cf8" stroke-width="1.4"/>
+    <line x1="0" y1="0" x2="0" y2="8" stroke="#818cf8" stroke-width="1.4"/>
+    <circle cx="0" cy="0" r="2.2" fill="#c084fc">
+      <animate attributeName="r" values="1.6;3;1.6" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <g>
+      <circle cx="0" cy="-10" r="1.5" fill="#38bdf8"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
